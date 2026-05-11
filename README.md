@@ -1,16 +1,19 @@
-## Hi there 👋
+## E aí, belê? 
+Dois sustenidos (#) para o efito título
+🇵🇸
+🇧🇷
+( : e um nome para colocar o emoji )
 
-<!--
-**YuriIwankiw/YuriIwankiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Se a idéia é escrever um texto temos dois asteriscos (** x **) sem espaço, para o **negrito** e um ( * x *) para o *itálico*. Algumas coisas mudam... Procura por Markdown. 
+Para colocar um link é preciso escrever uma palavra entre colchetes e depois, entre parênteses colar o endereço.
+Leia meu blog [Escrevendo quase tudo](https://escrevendoquasetudo.blogspot.com/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/3A-26A1fqzQAAAAj/brasil-pulse.gif) ![Palestina Livre!](https://media.tenor.com/tWKEX5aJVjoAAAAj/palestine.gif) ![](https://media.tenor.com/3A-26A1fqzQAAAAj/brasil-pulse.gif)
+
+- Estava tentando colocar um gif mas não dava certo.
+- Para colocar gif é preciso copiar o endereço da imagem e não o link de compartilhamento.
+
+
+
+
