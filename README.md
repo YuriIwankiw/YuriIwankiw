@@ -1,5 +1,5 @@
 ## E aí, belê? 
-Dois sustenidos (#) para o efito título
+Dois sustenidos (#) para o efeito título
 🇵🇸
 🇧🇷
 ( : e um nome para colocar o emoji )
